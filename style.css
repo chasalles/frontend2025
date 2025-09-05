@@ -13,3 +13,14 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.menu a{
+    color: white;
+    text-decoration:  none;
+    padding: 15px 20px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color:  #555;
+}
