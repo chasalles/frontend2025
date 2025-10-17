@@ -55,4 +55,6 @@ ol li {
 .titulo-principal{
     text-align: center;
     color: darkblue;
+    padding: 30px 0;
+    font-size: 50px;
 }
